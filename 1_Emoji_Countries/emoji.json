@@ -1,0 +1,1496 @@
+[
+    {
+        "Country": "Andorra",
+        "Abbreviation": "AD",
+        "Symbol": "🇦🇩",
+        "Code": "U+1F1E6 U+1F1E9"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Abbreviation": "AE",
+        "Symbol": "🇦🇪",
+        "Code": "U+1F1E6 U+1F1EA"
+    },
+    {
+        "Country": "Afghanistan",
+        "Abbreviation": "AF",
+        "Symbol": "🇦🇫",
+        "Code": "U+1F1E6 U+1F1EB"
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Abbreviation": "AG",
+        "Symbol": "🇦🇬",
+        "Code": "U+1F1E6 U+1F1EC"
+    },
+    {
+        "Country": "Anguilla",
+        "Abbreviation": "AI",
+        "Symbol": "🇦🇮",
+        "Code": "U+1F1E6 U+1F1EE"
+    },
+    {
+        "Country": "Albania",
+        "Abbreviation": "AL",
+        "Symbol": "🇦🇱",
+        "Code": "U+1F1E6 U+1F1F1"
+    },
+    {
+        "Country": "Armenia",
+        "Abbreviation": "AM",
+        "Symbol": "🇦🇲",
+        "Code": "U+1F1E6 U+1F1F2"
+    },
+    {
+        "Country": "Angola",
+        "Abbreviation": "AO",
+        "Symbol": "🇦🇴",
+        "Code": "U+1F1E6 U+1F1F4"
+    },
+    {
+        "Country": "Antarctica",
+        "Abbreviation": "AQ",
+        "Symbol": "🇦🇶",
+        "Code": "U+1F1E6 U+1F1F6"
+    },
+    {
+        "Country": "Argentina",
+        "Abbreviation": "AR",
+        "Symbol": "🇦🇷",
+        "Code": "U+1F1E6 U+1F1F7"
+    },
+    {
+        "Country": "American Samoa",
+        "Abbreviation": "AS",
+        "Symbol": "🇦🇸",
+        "Code": "U+1F1E6 U+1F1F8"
+    },
+    {
+        "Country": "Austria",
+        "Abbreviation": "AT",
+        "Symbol": "🇦🇹",
+        "Code": "U+1F1E6 U+1F1F9"
+    },
+    {
+        "Country": "Australia",
+        "Abbreviation": "AU",
+        "Symbol": "🇦🇺",
+        "Code": "U+1F1E6 U+1F1FA"
+    },
+    {
+        "Country": "Aruba",
+        "Abbreviation": "AW",
+        "Symbol": "🇦🇼",
+        "Code": "U+1F1E6 U+1F1FC"
+    },
+    {
+        "Country": "Åland Islands",
+        "Abbreviation": "AX",
+        "Symbol": "🇦🇽",
+        "Code": "U+1F1E6 U+1F1FD"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Abbreviation": "AZ",
+        "Symbol": "🇦🇿",
+        "Code": "U+1F1E6 U+1F1FF"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Abbreviation": "BA",
+        "Symbol": "🇧🇦",
+        "Code": "U+1F1E7 U+1F1E6"
+    },
+    {
+        "Country": "Barbados",
+        "Abbreviation": "BB",
+        "Symbol": "🇧🇧",
+        "Code": "U+1F1E7 U+1F1E7"
+    },
+    {
+        "Country": "Bangladesh",
+        "Abbreviation": "BD",
+        "Symbol": "🇧🇩",
+        "Code": "U+1F1E7 U+1F1E9"
+    },
+    {
+        "Country": "Belgium",
+        "Abbreviation": "BE",
+        "Symbol": "🇧🇪",
+        "Code": "U+1F1E7 U+1F1EA"
+    },
+    {
+        "Country": "Burkina Faso",
+        "Abbreviation": "BF",
+        "Symbol": "🇧🇫",
+        "Code": "U+1F1E7 U+1F1EB"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbreviation": "BG",
+        "Symbol": "🇧🇬",
+        "Code": "U+1F1E7 U+1F1EC"
+    },
+    {
+        "Country": "Bahrain",
+        "Abbreviation": "BH",
+        "Symbol": "🇧🇭",
+        "Code": "U+1F1E7 U+1F1ED"
+    },
+    {
+        "Country": "Burundi",
+        "Abbreviation": "BI",
+        "Symbol": "🇧🇮",
+        "Code": "U+1F1E7 U+1F1EE"
+    },
+    {
+        "Country": "Benin",
+        "Abbreviation": "BJ",
+        "Symbol": "🇧🇯",
+        "Code": "U+1F1E7 U+1F1EF"
+    },
+    {
+        "Country": "Saint Barthélemy",
+        "Abbreviation": "BL",
+        "Symbol": "🇧🇱",
+        "Code": "U+1F1E7 U+1F1F1"
+    },
+    {
+        "Country": "Bermuda",
+        "Abbreviation": "BM",
+        "Symbol": "🇧🇲",
+        "Code": "U+1F1E7 U+1F1F2"
+    },
+    {
+        "Country": "Brunei Darussalam",
+        "Abbreviation": "BN",
+        "Symbol": "🇧🇳",
+        "Code": "U+1F1E7 U+1F1F3"
+    },
+    {
+        "Country": "Bolivia",
+        "Abbreviation": "BO",
+        "Symbol": "🇧🇴",
+        "Code": "U+1F1E7 U+1F1F4"
+    },
+    {
+        "Country": "Bonaire, Sint Eustatius and Saba",
+        "Abbreviation": "BQ",
+        "Symbol": "🇧🇶",
+        "Code": "U+1F1E7 U+1F1F6"
+    },
+    {
+        "Country": "Brazil",
+        "Abbreviation": "BR",
+        "Symbol": "🇧🇷",
+        "Code": "U+1F1E7 U+1F1F7"
+    },
+    {
+        "Country": "Bahamas",
+        "Abbreviation": "BS",
+        "Symbol": "🇧🇸",
+        "Code": "U+1F1E7 U+1F1F8"
+    },
+    {
+        "Country": "Bhutan",
+        "Abbreviation": "BT",
+        "Symbol": "🇧🇹",
+        "Code": "U+1F1E7 U+1F1F9"
+    },
+    {
+        "Country": "Bouvet Island",
+        "Abbreviation": "BV",
+        "Symbol": "🇧🇻",
+        "Code": "U+1F1E7 U+1F1FB"
+    },
+    {
+        "Country": "Botswana",
+        "Abbreviation": "BW",
+        "Symbol": "🇧🇼",
+        "Code": "U+1F1E7 U+1F1FC"
+    },
+    {
+        "Country": "Belarus",
+        "Abbreviation": "BY",
+        "Symbol": "🇧🇾",
+        "Code": "U+1F1E7 U+1F1FE"
+    },
+    {
+        "Country": "Belize",
+        "Abbreviation": "BZ",
+        "Symbol": "🇧🇿",
+        "Code": "U+1F1E7 U+1F1FF"
+    },
+    {
+        "Country": "Canada",
+        "Abbreviation": "CA",
+        "Symbol": "🇨🇦",
+        "Code": "U+1F1E8 U+1F1E6"
+    },
+    {
+        "Country": "Cocos (Keeling) Islands",
+        "Abbreviation": "CC",
+        "Symbol": "🇨🇨",
+        "Code": "U+1F1E8 U+1F1E8"
+    },
+    {
+        "Country": "Congo",
+        "Abbreviation": "CD",
+        "Symbol": "🇨🇩",
+        "Code": "U+1F1E8 U+1F1E9"
+    },
+    {
+        "Country": "Central African Republic",
+        "Abbreviation": "CF",
+        "Symbol": "🇨🇫",
+        "Code": "U+1F1E8 U+1F1EB"
+    },
+    {
+        "Country": "Congo",
+        "Abbreviation": "CG",
+        "Symbol": "🇨🇬",
+        "Code": "U+1F1E8 U+1F1EC"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbreviation": "CH",
+        "Symbol": "🇨🇭",
+        "Code": "U+1F1E8 U+1F1ED"
+    },
+    {
+        "Country": "Côte D'Ivoire",
+        "Abbreviation": "CI",
+        "Symbol": "🇨🇮",
+        "Code": "U+1F1E8 U+1F1EE"
+    },
+    {
+        "Country": "Cook Islands",
+        "Abbreviation": "CK",
+        "Symbol": "🇨🇰",
+        "Code": "U+1F1E8 U+1F1F0"
+    },
+    {
+        "Country": "Chile",
+        "Abbreviation": "CL",
+        "Symbol": "🇨🇱",
+        "Code": "U+1F1E8 U+1F1F1"
+    },
+    {
+        "Country": "Cameroon",
+        "Abbreviation": "CM",
+        "Symbol": "🇨🇲",
+        "Code": "U+1F1E8 U+1F1F2"
+    },
+    {
+        "Country": "China",
+        "Abbreviation": "CN",
+        "Symbol": "🇨🇳",
+        "Code": "U+1F1E8 U+1F1F3"
+    },
+    {
+        "Country": "Colombia",
+        "Abbreviation": "CO",
+        "Symbol": "🇨🇴",
+        "Code": "U+1F1E8 U+1F1F4"
+    },
+    {
+        "Country": "Costa Rica",
+        "Abbreviation": "CR",
+        "Symbol": "🇨🇷",
+        "Code": "U+1F1E8 U+1F1F7"
+    },
+    {
+        "Country": "Cuba",
+        "Abbreviation": "CU",
+        "Symbol": "🇨🇺",
+        "Code": "U+1F1E8 U+1F1FA"
+    },
+    {
+        "Country": "Cape Verde",
+        "Abbreviation": "CV",
+        "Symbol": "🇨🇻",
+        "Code": "U+1F1E8 U+1F1FB"
+    },
+    {
+        "Country": "Curaçao",
+        "Abbreviation": "CW",
+        "Symbol": "🇨🇼",
+        "Code": "U+1F1E8 U+1F1FC"
+    },
+    {
+        "Country": "Christmas Island",
+        "Abbreviation": "CX",
+        "Symbol": "🇨🇽",
+        "Code": "U+1F1E8 U+1F1FD"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbreviation": "CY",
+        "Symbol": "🇨🇾",
+        "Code": "U+1F1E8 U+1F1FE"
+    },
+    {
+        "Country": "Czech Republic",
+        "Abbreviation": "CZ",
+        "Symbol": "🇨🇿",
+        "Code": "U+1F1E8 U+1F1FF"
+    },
+    {
+        "Country": "Germany",
+        "Abbreviation": "DE",
+        "Symbol": "🇩🇪",
+        "Code": "U+1F1E9 U+1F1EA"
+    },
+    {
+        "Country": "Djibouti",
+        "Abbreviation": "DJ",
+        "Symbol": "🇩🇯",
+        "Code": "U+1F1E9 U+1F1EF"
+    },
+    {
+        "Country": "Denmark",
+        "Abbreviation": "DK",
+        "Symbol": "🇩🇰",
+        "Code": "U+1F1E9 U+1F1F0"
+    },
+    {
+        "Country": "Dominica",
+        "Abbreviation": "DM",
+        "Symbol": "🇩🇲",
+        "Code": "U+1F1E9 U+1F1F2"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Abbreviation": "DO",
+        "Symbol": "🇩🇴",
+        "Code": "U+1F1E9 U+1F1F4"
+    },
+    {
+        "Country": "Algeria",
+        "Abbreviation": "DZ",
+        "Symbol": "🇩🇿",
+        "Code": "U+1F1E9 U+1F1FF"
+    },
+    {
+        "Country": "Ecuador",
+        "Abbreviation": "EC",
+        "Symbol": "🇪🇨",
+        "Code": "U+1F1EA U+1F1E8"
+    },
+    {
+        "Country": "Estonia",
+        "Abbreviation": "EE",
+        "Symbol": "🇪🇪",
+        "Code": "U+1F1EA U+1F1EA"
+    },
+    {
+        "Country": "Egypt",
+        "Abbreviation": "EG",
+        "Symbol": "🇪🇬",
+        "Code": "U+1F1EA U+1F1EC"
+    },
+    {
+        "Country": "Western Sahara",
+        "Abbreviation": "EH",
+        "Symbol": "🇪🇭",
+        "Code": "U+1F1EA U+1F1ED"
+    },
+    {
+        "Country": "Eritrea",
+        "Abbreviation": "ER",
+        "Symbol": "🇪🇷",
+        "Code": "U+1F1EA U+1F1F7"
+    },
+    {
+        "Country": "Spain",
+        "Abbreviation": "ES",
+        "Symbol": "🇪🇸",
+        "Code": "U+1F1EA U+1F1F8"
+    },
+    {
+        "Country": "Ethiopia",
+        "Abbreviation": "ET",
+        "Symbol": "🇪🇹",
+        "Code": "U+1F1EA U+1F1F9"
+    },
+    {
+        "Country": "Finland",
+        "Abbreviation": "FI",
+        "Symbol": "🇫🇮",
+        "Code": "U+1F1EB U+1F1EE"
+    },
+    {
+        "Country": "Fiji",
+        "Abbreviation": "FJ",
+        "Symbol": "🇫🇯",
+        "Code": "U+1F1EB U+1F1EF"
+    },
+    {
+        "Country": "Falkland Islands (Malvinas)",
+        "Abbreviation": "FK",
+        "Symbol": "🇫🇰",
+        "Code": "U+1F1EB U+1F1F0"
+    },
+    {
+        "Country": "Micronesia",
+        "Abbreviation": "FM",
+        "Symbol": "🇫🇲",
+        "Code": "U+1F1EB U+1F1F2"
+    },
+    {
+        "Country": "Faroe Islands",
+        "Abbreviation": "FO",
+        "Symbol": "🇫🇴",
+        "Code": "U+1F1EB U+1F1F4"
+    },
+    {
+        "Country": "France",
+        "Abbreviation": "FR",
+        "Symbol": "🇫🇷",
+        "Code": "U+1F1EB U+1F1F7"
+    },
+    {
+        "Country": "Gabon",
+        "Abbreviation": "GA",
+        "Symbol": "🇬🇦",
+        "Code": "U+1F1EC U+1F1E6"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbreviation": "GB",
+        "Symbol": "🇬🇧",
+        "Code": "U+1F1EC U+1F1E7"
+    },
+    {
+        "Country": "Grenada",
+        "Abbreviation": "GD",
+        "Symbol": "🇬🇩",
+        "Code": "U+1F1EC U+1F1E9"
+    },
+    {
+        "Country": "Georgia",
+        "Abbreviation": "GE",
+        "Symbol": "🇬🇪",
+        "Code": "U+1F1EC U+1F1EA"
+    },
+    {
+        "Country": "French Guiana",
+        "Abbreviation": "GF",
+        "Symbol": "🇬🇫",
+        "Code": "U+1F1EC U+1F1EB"
+    },
+    {
+        "Country": "Guernsey",
+        "Abbreviation": "GG",
+        "Symbol": "🇬🇬",
+        "Code": "U+1F1EC U+1F1EC"
+    },
+    {
+        "Country": "Ghana",
+        "Abbreviation": "GH",
+        "Symbol": "🇬🇭",
+        "Code": "U+1F1EC U+1F1ED"
+    },
+    {
+        "Country": "Gibraltar",
+        "Abbreviation": "GI",
+        "Symbol": "🇬🇮",
+        "Code": "U+1F1EC U+1F1EE"
+    },
+    {
+        "Country": "Greenland",
+        "Abbreviation": "GL",
+        "Symbol": "🇬🇱",
+        "Code": "U+1F1EC U+1F1F1"
+    },
+    {
+        "Country": "Gambia",
+        "Abbreviation": "GM",
+        "Symbol": "🇬🇲",
+        "Code": "U+1F1EC U+1F1F2"
+    },
+    {
+        "Country": "Guinea",
+        "Abbreviation": "GN",
+        "Symbol": "🇬🇳",
+        "Code": "U+1F1EC U+1F1F3"
+    },
+    {
+        "Country": "Guadeloupe",
+        "Abbreviation": "GP",
+        "Symbol": "🇬🇵",
+        "Code": "U+1F1EC U+1F1F5"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Abbreviation": "GQ",
+        "Symbol": "🇬🇶",
+        "Code": "U+1F1EC U+1F1F6"
+    },
+    {
+        "Country": "Greece",
+        "Abbreviation": "GR",
+        "Symbol": "🇬🇷",
+        "Code": "U+1F1EC U+1F1F7"
+    },
+    {
+        "Country": "South Georgia",
+        "Abbreviation": "GS",
+        "Symbol": "🇬🇸",
+        "Code": "U+1F1EC U+1F1F8"
+    },
+    {
+        "Country": "Guatemala",
+        "Abbreviation": "GT",
+        "Symbol": "🇬🇹",
+        "Code": "U+1F1EC U+1F1F9"
+    },
+    {
+        "Country": "Guam",
+        "Abbreviation": "GU",
+        "Symbol": "🇬🇺",
+        "Code": "U+1F1EC U+1F1FA"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Abbreviation": "GW",
+        "Symbol": "🇬🇼",
+        "Code": "U+1F1EC U+1F1FC"
+    },
+    {
+        "Country": "Guyana",
+        "Abbreviation": "GY",
+        "Symbol": "🇬🇾",
+        "Code": "U+1F1EC U+1F1FE"
+    },
+    {
+        "Country": "Hong Kong",
+        "Abbreviation": "HK",
+        "Symbol": "🇭🇰",
+        "Code": "U+1F1ED U+1F1F0"
+    },
+    {
+        "Country": "Heard Island and Mcdonald Islands",
+        "Abbreviation": "HM",
+        "Symbol": "🇭🇲",
+        "Code": "U+1F1ED U+1F1F2"
+    },
+    {
+        "Country": "Honduras",
+        "Abbreviation": "HN",
+        "Symbol": "🇭🇳",
+        "Code": "U+1F1ED U+1F1F3"
+    },
+    {
+        "Country": "Croatia",
+        "Abbreviation": "HR",
+        "Symbol": "🇭🇷",
+        "Code": "U+1F1ED U+1F1F7"
+    },
+    {
+        "Country": "Haiti",
+        "Abbreviation": "HT",
+        "Symbol": "🇭🇹",
+        "Code": "U+1F1ED U+1F1F9"
+    },
+    {
+        "Country": "Hungary",
+        "Abbreviation": "HU",
+        "Symbol": "🇭🇺",
+        "Code": "U+1F1ED U+1F1FA"
+    },
+    {
+        "Country": "Indonesia",
+        "Abbreviation": "ID",
+        "Symbol": "🇮🇩",
+        "Code": "U+1F1EE U+1F1E9"
+    },
+    {
+        "Country": "Ireland",
+        "Abbreviation": "IE",
+        "Symbol": "🇮🇪",
+        "Code": "U+1F1EE U+1F1EA"
+    },
+    {
+        "Country": "Israel",
+        "Abbreviation": "IL",
+        "Symbol": "🇮🇱",
+        "Code": "U+1F1EE U+1F1F1"
+    },
+    {
+        "Country": "Isle of Man",
+        "Abbreviation": "IM",
+        "Symbol": "🇮🇲",
+        "Code": "U+1F1EE U+1F1F2"
+    },
+    {
+        "Country": "India",
+        "Abbreviation": "IN",
+        "Symbol": "🇮🇳",
+        "Code": "U+1F1EE U+1F1F3"
+    },
+    {
+        "Country": "British Indian Ocean Territory",
+        "Abbreviation": "IO",
+        "Symbol": "🇮🇴",
+        "Code": "U+1F1EE U+1F1F4"
+    },
+    {
+        "Country": "Iraq",
+        "Abbreviation": "IQ",
+        "Symbol": "🇮🇶",
+        "Code": "U+1F1EE U+1F1F6"
+    },
+    {
+        "Country": "Iran",
+        "Abbreviation": "IR",
+        "Symbol": "🇮🇷",
+        "Code": "U+1F1EE U+1F1F7"
+    },
+    {
+        "Country": "Iceland",
+        "Abbreviation": "IS",
+        "Symbol": "🇮🇸",
+        "Code": "U+1F1EE U+1F1F8"
+    },
+    {
+        "Country": "Italy",
+        "Abbreviation": "IT",
+        "Symbol": "🇮🇹",
+        "Code": "U+1F1EE U+1F1F9"
+    },
+    {
+        "Country": "Jersey",
+        "Abbreviation": "JE",
+        "Symbol": "🇯🇪",
+        "Code": "U+1F1EF U+1F1EA"
+    },
+    {
+        "Country": "Jamaica",
+        "Abbreviation": "JM",
+        "Symbol": "🇯🇲",
+        "Code": "U+1F1EF U+1F1F2"
+    },
+    {
+        "Country": "Jordan",
+        "Abbreviation": "JO",
+        "Symbol": "🇯🇴",
+        "Code": "U+1F1EF U+1F1F4"
+    },
+    {
+        "Country": "Japan",
+        "Abbreviation": "JP",
+        "Symbol": "🇯🇵",
+        "Code": "U+1F1EF U+1F1F5"
+    },
+    {
+        "Country": "Kenya",
+        "Abbreviation": "KE",
+        "Symbol": "🇰🇪",
+        "Code": "U+1F1F0 U+1F1EA"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Abbreviation": "KG",
+        "Symbol": "🇰🇬",
+        "Code": "U+1F1F0 U+1F1EC"
+    },
+    {
+        "Country": "Cambodia",
+        "Abbreviation": "KH",
+        "Symbol": "🇰🇭",
+        "Code": "U+1F1F0 U+1F1ED"
+    },
+    {
+        "Country": "Kiribati",
+        "Abbreviation": "KI",
+        "Symbol": "🇰🇮",
+        "Code": "U+1F1F0 U+1F1EE"
+    },
+    {
+        "Country": "Comoros",
+        "Abbreviation": "KM",
+        "Symbol": "🇰🇲",
+        "Code": "U+1F1F0 U+1F1F2"
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "Abbreviation": "KN",
+        "Symbol": "🇰🇳",
+        "Code": "U+1F1F0 U+1F1F3"
+    },
+    {
+        "Country": "North Korea",
+        "Abbreviation": "KP",
+        "Symbol": "🇰🇵",
+        "Code": "U+1F1F0 U+1F1F5"
+    },
+    {
+        "Country": "South Korea",
+        "Abbreviation": "KR",
+        "Symbol": "🇰🇷",
+        "Code": "U+1F1F0 U+1F1F7"
+    },
+    {
+        "Country": "Kuwait",
+        "Abbreviation": "KW",
+        "Symbol": "🇰🇼",
+        "Code": "U+1F1F0 U+1F1FC"
+    },
+    {
+        "Country": "Cayman Islands",
+        "Abbreviation": "KY",
+        "Symbol": "🇰🇾",
+        "Code": "U+1F1F0 U+1F1FE"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Abbreviation": "KZ",
+        "Symbol": "🇰🇿",
+        "Code": "U+1F1F0 U+1F1FF"
+    },
+    {
+        "Country": "Lao People's Democratic Republic",
+        "Abbreviation": "LA",
+        "Symbol": "🇱🇦",
+        "Code": "U+1F1F1 U+1F1E6"
+    },
+    {
+        "Country": "Lebanon",
+        "Abbreviation": "LB",
+        "Symbol": "🇱🇧",
+        "Code": "U+1F1F1 U+1F1E7"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Abbreviation": "LC",
+        "Symbol": "🇱🇨",
+        "Code": "U+1F1F1 U+1F1E8"
+    },
+    {
+        "Country": "Liechtenstein",
+        "Abbreviation": "LI",
+        "Symbol": "🇱🇮",
+        "Code": "U+1F1F1 U+1F1EE"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Abbreviation": "LK",
+        "Symbol": "🇱🇰",
+        "Code": "U+1F1F1 U+1F1F0"
+    },
+    {
+        "Country": "Liberia",
+        "Abbreviation": "LR",
+        "Symbol": "🇱🇷",
+        "Code": "U+1F1F1 U+1F1F7"
+    },
+    {
+        "Country": "Lesotho",
+        "Abbreviation": "LS",
+        "Symbol": "🇱🇸",
+        "Code": "U+1F1F1 U+1F1F8"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbreviation": "LT",
+        "Symbol": "🇱🇹",
+        "Code": "U+1F1F1 U+1F1F9"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbreviation": "LU",
+        "Symbol": "🇱🇺",
+        "Code": "U+1F1F1 U+1F1FA"
+    },
+    {
+        "Country": "Latvia",
+        "Abbreviation": "LV",
+        "Symbol": "🇱🇻",
+        "Code": "U+1F1F1 U+1F1FB"
+    },
+    {
+        "Country": "Libya",
+        "Abbreviation": "LY",
+        "Symbol": "🇱🇾",
+        "Code": "U+1F1F1 U+1F1FE"
+    },
+    {
+        "Country": "Morocco",
+        "Abbreviation": "MA",
+        "Symbol": "🇲🇦",
+        "Code": "U+1F1F2 U+1F1E6"
+    },
+    {
+        "Country": "Monaco",
+        "Abbreviation": "MC",
+        "Symbol": "🇲🇨",
+        "Code": "U+1F1F2 U+1F1E8"
+    },
+    {
+        "Country": "Moldova",
+        "Abbreviation": "MD",
+        "Symbol": "🇲🇩",
+        "Code": "U+1F1F2 U+1F1E9"
+    },
+    {
+        "Country": "Montenegro",
+        "Abbreviation": "ME",
+        "Symbol": "🇲🇪",
+        "Code": "U+1F1F2 U+1F1EA"
+    },
+    {
+        "Country": "Saint Martin (French Part)",
+        "Abbreviation": "MF",
+        "Symbol": "🇲🇫",
+        "Code": "U+1F1F2 U+1F1EB"
+    },
+    {
+        "Country": "Madagascar",
+        "Abbreviation": "MG",
+        "Symbol": "🇲🇬",
+        "Code": "U+1F1F2 U+1F1EC"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Abbreviation": "MH",
+        "Symbol": "🇲🇭",
+        "Code": "U+1F1F2 U+1F1ED"
+    },
+    {
+        "Country": "Macedonia",
+        "Abbreviation": "MK",
+        "Symbol": "🇲🇰",
+        "Code": "U+1F1F2 U+1F1F0"
+    },
+    {
+        "Country": "Mali",
+        "Abbreviation": "ML",
+        "Symbol": "🇲🇱",
+        "Code": "U+1F1F2 U+1F1F1"
+    },
+    {
+        "Country": "Myanmar",
+        "Abbreviation": "MM",
+        "Symbol": "🇲🇲",
+        "Code": "U+1F1F2 U+1F1F2"
+    },
+    {
+        "Country": "Mongolia",
+        "Abbreviation": "MN",
+        "Symbol": "🇲🇳",
+        "Code": "U+1F1F2 U+1F1F3"
+    },
+    {
+        "Country": "Macao",
+        "Abbreviation": "MO",
+        "Symbol": "🇲🇴",
+        "Code": "U+1F1F2 U+1F1F4"
+    },
+    {
+        "Country": "Northern Mariana Islands",
+        "Abbreviation": "MP",
+        "Symbol": "🇲🇵",
+        "Code": "U+1F1F2 U+1F1F5"
+    },
+    {
+        "Country": "Martinique",
+        "Abbreviation": "MQ",
+        "Symbol": "🇲🇶",
+        "Code": "U+1F1F2 U+1F1F6"
+    },
+    {
+        "Country": "Mauritania",
+        "Abbreviation": "MR",
+        "Symbol": "🇲🇷",
+        "Code": "U+1F1F2 U+1F1F7"
+    },
+    {
+        "Country": "Montserrat",
+        "Abbreviation": "MS",
+        "Symbol": "🇲🇸",
+        "Code": "U+1F1F2 U+1F1F8"
+    },
+    {
+        "Country": "Malta",
+        "Abbreviation": "MT",
+        "Symbol": "🇲🇹",
+        "Code": "U+1F1F2 U+1F1F9"
+    },
+    {
+        "Country": "Mauritius",
+        "Abbreviation": "MU",
+        "Symbol": "🇲🇺",
+        "Code": "U+1F1F2 U+1F1FA"
+    },
+    {
+        "Country": "Maldives",
+        "Abbreviation": "MV",
+        "Symbol": "🇲🇻",
+        "Code": "U+1F1F2 U+1F1FB"
+    },
+    {
+        "Country": "Malawi",
+        "Abbreviation": "MW",
+        "Symbol": "🇲🇼",
+        "Code": "U+1F1F2 U+1F1FC"
+    },
+    {
+        "Country": "Mexico",
+        "Abbreviation": "MX",
+        "Symbol": "🇲🇽",
+        "Code": "U+1F1F2 U+1F1FD"
+    },
+    {
+        "Country": "Malaysia",
+        "Abbreviation": "MY",
+        "Symbol": "🇲🇾",
+        "Code": "U+1F1F2 U+1F1FE"
+    },
+    {
+        "Country": "Mozambique",
+        "Abbreviation": "MZ",
+        "Symbol": "🇲🇿",
+        "Code": "U+1F1F2 U+1F1FF"
+    },
+    {
+        "Country": "Namibia",
+        "Abbreviation": "NA",
+        "Symbol": "🇳🇦",
+        "Code": "U+1F1F3 U+1F1E6"
+    },
+    {
+        "Country": "New Caledonia",
+        "Abbreviation": "NC",
+        "Symbol": "🇳🇨",
+        "Code": "U+1F1F3 U+1F1E8"
+    },
+    {
+        "Country": "Niger",
+        "Abbreviation": "NE",
+        "Symbol": "🇳🇪",
+        "Code": "U+1F1F3 U+1F1EA"
+    },
+    {
+        "Country": "Norfolk Island",
+        "Abbreviation": "NF",
+        "Symbol": "🇳🇫",
+        "Code": "U+1F1F3 U+1F1EB"
+    },
+    {
+        "Country": "Nigeria",
+        "Abbreviation": "NG",
+        "Symbol": "🇳🇬",
+        "Code": "U+1F1F3 U+1F1EC"
+    },
+    {
+        "Country": "Nicaragua",
+        "Abbreviation": "NI",
+        "Symbol": "🇳🇮",
+        "Code": "U+1F1F3 U+1F1EE"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbreviation": "NL",
+        "Symbol": "🇳🇱",
+        "Code": "U+1F1F3 U+1F1F1"
+    },
+    {
+        "Country": "Norway",
+        "Abbreviation": "NO",
+        "Symbol": "🇳🇴",
+        "Code": "U+1F1F3 U+1F1F4"
+    },
+    {
+        "Country": "Nepal",
+        "Abbreviation": "NP",
+        "Symbol": "🇳🇵",
+        "Code": "U+1F1F3 U+1F1F5"
+    },
+    {
+        "Country": "Nauru",
+        "Abbreviation": "NR",
+        "Symbol": "🇳🇷",
+        "Code": "U+1F1F3 U+1F1F7"
+    },
+    {
+        "Country": "Niue",
+        "Abbreviation": "NU",
+        "Symbol": "🇳🇺",
+        "Code": "U+1F1F3 U+1F1FA"
+    },
+    {
+        "Country": "New Zealand",
+        "Abbreviation": "NZ",
+        "Symbol": "🇳🇿",
+        "Code": "U+1F1F3 U+1F1FF"
+    },
+    {
+        "Country": "Oman",
+        "Abbreviation": "OM",
+        "Symbol": "🇴🇲",
+        "Code": "U+1F1F4 U+1F1F2"
+    },
+    {
+        "Country": "Panama",
+        "Abbreviation": "PA",
+        "Symbol": "🇵🇦",
+        "Code": "U+1F1F5 U+1F1E6"
+    },
+    {
+        "Country": "Peru",
+        "Abbreviation": "PE",
+        "Symbol": "🇵🇪",
+        "Code": "U+1F1F5 U+1F1EA"
+    },
+    {
+        "Country": "French Polynesia",
+        "Abbreviation": "PF",
+        "Symbol": "🇵🇫",
+        "Code": "U+1F1F5 U+1F1EB"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Abbreviation": "PG",
+        "Symbol": "🇵🇬",
+        "Code": "U+1F1F5 U+1F1EC"
+    },
+    {
+        "Country": "Philippines",
+        "Abbreviation": "PH",
+        "Symbol": "🇵🇭",
+        "Code": "U+1F1F5 U+1F1ED"
+    },
+    {
+        "Country": "Pakistan",
+        "Abbreviation": "PK",
+        "Symbol": "🇵🇰",
+        "Code": "U+1F1F5 U+1F1F0"
+    },
+    {
+        "Country": "Poland",
+        "Abbreviation": "PL",
+        "Symbol": "🇵🇱",
+        "Code": "U+1F1F5 U+1F1F1"
+    },
+    {
+        "Country": "Saint Pierre and Miquelon",
+        "Abbreviation": "PM",
+        "Symbol": "🇵🇲",
+        "Code": "U+1F1F5 U+1F1F2"
+    },
+    {
+        "Country": "Pitcairn",
+        "Abbreviation": "PN",
+        "Symbol": "🇵🇳",
+        "Code": "U+1F1F5 U+1F1F3"
+    },
+    {
+        "Country": "Puerto Rico",
+        "Abbreviation": "PR",
+        "Symbol": "🇵🇷",
+        "Code": "U+1F1F5 U+1F1F7"
+    },
+    {
+        "Country": "Palestinian Territory",
+        "Abbreviation": "PS",
+        "Symbol": "🇵🇸",
+        "Code": "U+1F1F5 U+1F1F8"
+    },
+    {
+        "Country": "Portugal",
+        "Abbreviation": "PT",
+        "Symbol": "🇵🇹",
+        "Code": "U+1F1F5 U+1F1F9"
+    },
+    {
+        "Country": "Palau",
+        "Abbreviation": "PW",
+        "Symbol": "🇵🇼",
+        "Code": "U+1F1F5 U+1F1FC"
+    },
+    {
+        "Country": "Paraguay",
+        "Abbreviation": "PY",
+        "Symbol": "🇵🇾",
+        "Code": "U+1F1F5 U+1F1FE"
+    },
+    {
+        "Country": "Qatar",
+        "Abbreviation": "QA",
+        "Symbol": "🇶🇦",
+        "Code": "U+1F1F6 U+1F1E6"
+    },
+    {
+        "Country": "Réunion",
+        "Abbreviation": "RE",
+        "Symbol": "🇷🇪",
+        "Code": "U+1F1F7 U+1F1EA"
+    },
+    {
+        "Country": "Romania",
+        "Abbreviation": "RO",
+        "Symbol": "🇷🇴",
+        "Code": "U+1F1F7 U+1F1F4"
+    },
+    {
+        "Country": "Serbia",
+        "Abbreviation": "RS",
+        "Symbol": "🇷🇸",
+        "Code": "U+1F1F7 U+1F1F8"
+    },
+    {
+        "Country": "Russia",
+        "Abbreviation": "RU",
+        "Symbol": "🇷🇺",
+        "Code": "U+1F1F7 U+1F1FA"
+    },
+    {
+        "Country": "Rwanda",
+        "Abbreviation": "RW",
+        "Symbol": "🇷🇼",
+        "Code": "U+1F1F7 U+1F1FC"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Abbreviation": "SA",
+        "Symbol": "🇸🇦",
+        "Code": "U+1F1F8 U+1F1E6"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Abbreviation": "SB",
+        "Symbol": "🇸🇧",
+        "Code": "U+1F1F8 U+1F1E7"
+    },
+    {
+        "Country": "Seychelles",
+        "Abbreviation": "SC",
+        "Symbol": "🇸🇨",
+        "Code": "U+1F1F8 U+1F1E8"
+    },
+    {
+        "Country": "Sudan",
+        "Abbreviation": "SD",
+        "Symbol": "🇸🇩",
+        "Code": "U+1F1F8 U+1F1E9"
+    },
+    {
+        "Country": "Sweden",
+        "Abbreviation": "SE",
+        "Symbol": "🇸🇪",
+        "Code": "U+1F1F8 U+1F1EA"
+    },
+    {
+        "Country": "Singapore",
+        "Abbreviation": "SG",
+        "Symbol": "🇸🇬",
+        "Code": "U+1F1F8 U+1F1EC"
+    },
+    {
+        "Country": "Saint Helena, Ascension and Tristan Da Cunha",
+        "Abbreviation": "SH",
+        "Symbol": "🇸🇭",
+        "Code": "U+1F1F8 U+1F1ED"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbreviation": "SI",
+        "Symbol": "🇸🇮",
+        "Code": "U+1F1F8 U+1F1EE"
+    },
+    {
+        "Country": "Svalbard and Jan Mayen",
+        "Abbreviation": "SJ",
+        "Symbol": "🇸🇯",
+        "Code": "U+1F1F8 U+1F1EF"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbreviation": "SK",
+        "Symbol": "🇸🇰",
+        "Code": "U+1F1F8 U+1F1F0"
+    },
+    {
+        "Country": "Sierra Leone",
+        "Abbreviation": "SL",
+        "Symbol": "🇸🇱",
+        "Code": "U+1F1F8 U+1F1F1"
+    },
+    {
+        "Country": "San Marino",
+        "Abbreviation": "SM",
+        "Symbol": "🇸🇲",
+        "Code": "U+1F1F8 U+1F1F2"
+    },
+    {
+        "Country": "Senegal",
+        "Abbreviation": "SN",
+        "Symbol": "🇸🇳",
+        "Code": "U+1F1F8 U+1F1F3"
+    },
+    {
+        "Country": "Somalia",
+        "Abbreviation": "SO",
+        "Symbol": "🇸🇴",
+        "Code": "U+1F1F8 U+1F1F4"
+    },
+    {
+        "Country": "Suriname",
+        "Abbreviation": "SR",
+        "Symbol": "🇸🇷",
+        "Code": "U+1F1F8 U+1F1F7"
+    },
+    {
+        "Country": "South Sudan",
+        "Abbreviation": "SS",
+        "Symbol": "🇸🇸",
+        "Code": "U+1F1F8 U+1F1F8"
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Abbreviation": "ST",
+        "Symbol": "🇸🇹",
+        "Code": "U+1F1F8 U+1F1F9"
+    },
+    {
+        "Country": "El Salvador",
+        "Abbreviation": "SV",
+        "Symbol": "🇸🇻",
+        "Code": "U+1F1F8 U+1F1FB"
+    },
+    {
+        "Country": "Sint Maarten (Dutch Part)",
+        "Abbreviation": "SX",
+        "Symbol": "🇸🇽",
+        "Code": "U+1F1F8 U+1F1FD"
+    },
+    {
+        "Country": "Syrian Arab Republic",
+        "Abbreviation": "SY",
+        "Symbol": "🇸🇾",
+        "Code": "U+1F1F8 U+1F1FE"
+    },
+    {
+        "Country": "Swaziland",
+        "Abbreviation": "SZ",
+        "Symbol": "🇸🇿",
+        "Code": "U+1F1F8 U+1F1FF"
+    },
+    {
+        "Country": "Turks and Caicos Islands",
+        "Abbreviation": "TC",
+        "Symbol": "🇹🇨",
+        "Code": "U+1F1F9 U+1F1E8"
+    },
+    {
+        "Country": "Chad",
+        "Abbreviation": "TD",
+        "Symbol": "🇹🇩",
+        "Code": "U+1F1F9 U+1F1E9"
+    },
+    {
+        "Country": "French Southern Territories",
+        "Abbreviation": "TF",
+        "Symbol": "🇹🇫",
+        "Code": "U+1F1F9 U+1F1EB"
+    },
+    {
+        "Country": "Togo",
+        "Abbreviation": "TG",
+        "Symbol": "🇹🇬",
+        "Code": "U+1F1F9 U+1F1EC"
+    },
+    {
+        "Country": "Thailand",
+        "Abbreviation": "TH",
+        "Symbol": "🇹🇭",
+        "Code": "U+1F1F9 U+1F1ED"
+    },
+    {
+        "Country": "Tajikistan",
+        "Abbreviation": "TJ",
+        "Symbol": "🇹🇯",
+        "Code": "U+1F1F9 U+1F1EF"
+    },
+    {
+        "Country": "Tokelau",
+        "Abbreviation": "TK",
+        "Symbol": "🇹🇰",
+        "Code": "U+1F1F9 U+1F1F0"
+    },
+    {
+        "Country": "Timor-Leste",
+        "Abbreviation": "TL",
+        "Symbol": "🇹🇱",
+        "Code": "U+1F1F9 U+1F1F1"
+    },
+    {
+        "Country": "Turkmenistan",
+        "Abbreviation": "TM",
+        "Symbol": "🇹🇲",
+        "Code": "U+1F1F9 U+1F1F2"
+    },
+    {
+        "Country": "Tunisia",
+        "Abbreviation": "TN",
+        "Symbol": "🇹🇳",
+        "Code": "U+1F1F9 U+1F1F3"
+    },
+    {
+        "Country": "Tonga",
+        "Abbreviation": "TO",
+        "Symbol": "🇹🇴",
+        "Code": "U+1F1F9 U+1F1F4"
+    },
+    {
+        "Country": "Turkey",
+        "Abbreviation": "TR",
+        "Symbol": "🇹🇷",
+        "Code": "U+1F1F9 U+1F1F7"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Abbreviation": "TT",
+        "Symbol": "🇹🇹",
+        "Code": "U+1F1F9 U+1F1F9"
+    },
+    {
+        "Country": "Tuvalu",
+        "Abbreviation": "TV",
+        "Symbol": "🇹🇻",
+        "Code": "U+1F1F9 U+1F1FB"
+    },
+    {
+        "Country": "Taiwan",
+        "Abbreviation": "TW",
+        "Symbol": "🇹🇼",
+        "Code": "U+1F1F9 U+1F1FC"
+    },
+    {
+        "Country": "Tanzania",
+        "Abbreviation": "TZ",
+        "Symbol": "🇹🇿",
+        "Code": "U+1F1F9 U+1F1FF"
+    },
+    {
+        "Country": "Ukraine",
+        "Abbreviation": "UA",
+        "Symbol": "🇺🇦",
+        "Code": "U+1F1FA U+1F1E6"
+    },
+    {
+        "Country": "Uganda",
+        "Abbreviation": "UG",
+        "Symbol": "🇺🇬",
+        "Code": "U+1F1FA U+1F1EC"
+    },
+    {
+        "Country": "United States Minor Outlying Islands",
+        "Abbreviation": "UM",
+        "Symbol": "🇺🇲",
+        "Code": "U+1F1FA U+1F1F2"
+    },
+    {
+        "Country": "United States",
+        "Abbreviation": "US",
+        "Symbol": "🇺🇸",
+        "Code": "U+1F1FA U+1F1F8"
+    },
+    {
+        "Country": "Uruguay",
+        "Abbreviation": "UY",
+        "Symbol": "🇺🇾",
+        "Code": "U+1F1FA U+1F1FE"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Abbreviation": "UZ",
+        "Symbol": "🇺🇿",
+        "Code": "U+1F1FA U+1F1FF"
+    },
+    {
+        "Country": "Vatican City",
+        "Abbreviation": "VA",
+        "Symbol": "🇻🇦",
+        "Code": "U+1F1FB U+1F1E6"
+    },
+    {
+        "Country": "Saint Vincent and The Grenadines",
+        "Abbreviation": "VC",
+        "Symbol": "🇻🇨",
+        "Code": "U+1F1FB U+1F1E8"
+    },
+    {
+        "Country": "Venezuela",
+        "Abbreviation": "VE",
+        "Symbol": "🇻🇪",
+        "Code": "U+1F1FB U+1F1EA"
+    },
+    {
+        "Country": "Virgin Islands, British",
+        "Abbreviation": "VG",
+        "Symbol": "🇻🇬",
+        "Code": "U+1F1FB U+1F1EC"
+    },
+    {
+        "Country": "Virgin Islands, U.S.",
+        "Abbreviation": "VI",
+        "Symbol": "🇻🇮",
+        "Code": "U+1F1FB U+1F1EE"
+    },
+    {
+        "Country": "Viet Nam",
+        "Abbreviation": "VN",
+        "Symbol": "🇻🇳",
+        "Code": "U+1F1FB U+1F1F3"
+    },
+    {
+        "Country": "Vanuatu",
+        "Abbreviation": "VU",
+        "Symbol": "🇻🇺",
+        "Code": "U+1F1FB U+1F1FA"
+    },
+    {
+        "Country": "Wallis and Futuna",
+        "Abbreviation": "WF",
+        "Symbol": "🇼🇫",
+        "Code": "U+1F1FC U+1F1EB"
+    },
+    {
+        "Country": "Samoa",
+        "Abbreviation": "WS",
+        "Symbol": "🇼🇸",
+        "Code": "U+1F1FC U+1F1F8"
+    },
+    {
+        "Country": "Yemen",
+        "Abbreviation": "YE",
+        "Symbol": "🇾🇪",
+        "Code": "U+1F1FE U+1F1EA"
+    },
+    {
+        "Country": "Mayotte",
+        "Abbreviation": "YT",
+        "Symbol": "🇾🇹",
+        "Code": "U+1F1FE U+1F1F9"
+    },
+    {
+        "Country": "South Africa",
+        "Abbreviation": "ZA",
+        "Symbol": "🇿🇦",
+        "Code": "U+1F1FF U+1F1E6"
+    },
+    {
+        "Country": "Zambia",
+        "Abbreviation": "ZM",
+        "Symbol": "🇿🇲",
+        "Code": "U+1F1FF U+1F1F2"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Abbreviation": "ZW",
+        "Symbol": "🇿🇼",
+        "Code": "U+1F1FF U+1F1FC"
+    }
+]
